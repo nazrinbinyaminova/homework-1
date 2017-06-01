@@ -1,1 +1,1 @@
-# GitHub ne ucun istifade edilir ve onun imkanlar nelerdir.
+# GitHub ne ucun istifade edilir ve onun imkanlar nelerdir?
