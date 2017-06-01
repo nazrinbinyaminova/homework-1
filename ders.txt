@@ -1,0 +1,5 @@
+GitHub gunumuzde en genis yayilmis proyektin idare olunmasi ucun sistemidir. GitHub vasitesile, yaratdigimiz 
+proyekte ferqli movzular altinda ferqli insanlari elave ede biler, onlara muxtelif vezifeler vere biler ve islerini
+yoxlaya bilerik. Burada hem de esas proyekti deyismeden yeni kodlar yaradib test etmek ucun sobeler (branch) yaratmaq 
+olar. GitHubla hem komanda, hem de ferdi sekilde islemek olar. GitHubla biz yazdigimiz proyektden istediyimiz vaxt,
+istediyimiz yerde istifade ede bilerik. Kodda her hansi bir sehv etdikde GitHubla evvelki kodu berpa ede bilerik.
