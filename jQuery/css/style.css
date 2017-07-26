@@ -1,0 +1,32 @@
+* {
+	transition: all .5s ease;
+}
+
+body {
+	margin: 0 auto;
+}
+ .one {
+ 	background: red;
+ 	height: 1000px;
+ 	width: 100%;
+ }
+
+  .two {
+ 	background: yellow;
+ 	height: 1000px;
+ 	width: 100%;
+ }
+  .three {
+ 	background: blue;
+ 	height: 1000px;
+ 	width: 100%;
+ }
+  .four {
+ 	background: gray;
+ 	height: 1000px;
+ 	width: 100%;
+ }
+
+ .navbar {
+ 	position: fixed;
+ }
