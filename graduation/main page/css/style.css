@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  width: 100%;
+  height: 20%;
+  background: white;
+}
+.header .headerSearch {
+  padding: 10px 0;
+}
+.header .headerSearch input {
+  border: none;
+}
+.header .navbarSection {
+  width: 100%;
+  padding: 30px 0;
+}
+.header .navbarSection ul li {
+  display: inline-block;
+}
+.header .navbarSection ul li a:hover {
+  color: #7D7D7D;
+}
+.header .navbarSection ul li button {
+  padding: 11px;
+  background: #53B778;
+  color: white;
+  border: 2px solid #53B778;
+  font-weight: bold;
+}
+.header .navbarSection ul li button:hover {
+  background: white;
+  color: #53B778;
+  border: 2px solid #53B778;
+}
+
+/*# sourceMappingURL=style.css.map */

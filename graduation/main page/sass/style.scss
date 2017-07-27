@@ -1,0 +1,57 @@
+$myWidthHeight: 100%;
+$myColor: #53B778;
+$transition: all .5s ease;
+
+body {
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+.header {
+	width: $myWidthHeight;
+	height:($myWidthHeight/5);
+	background: white;
+
+	.headerSearch {
+		padding: 10px 0;
+
+		input {
+			border: none;
+		}
+
+	}
+
+	.navbarSection {
+		width: $myWidthHeight;
+		padding: 30px 0;
+
+		ul {
+			li {
+				display: inline-block;
+				a {
+					&:hover {
+						color: #7D7D7D;
+					}
+				}
+
+				button {
+					padding: 11px;
+					background: $myColor;
+					color: white;
+					border: 2px solid $myColor;
+					font-weight: bold;
+
+
+					&:hover {
+						background: white;
+						color: $myColor;
+						border: 2px solid $myColor;
+					}
+				}
+			}
+		}
+	}
+
+	
+}
